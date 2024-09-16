@@ -21,7 +21,7 @@ on:
       - ".upptimerc.yml"
   repository_dispatch:
     types: [setup]
-  workflow_dispatch: 
+  workflow_dispatch:
 jobs:
   release:
     name: Setup Upptime
