@@ -5,8 +5,10 @@ repo: status.anydevcode.com # The name of this repository
 sites:
   - name: Any Dev Code Website
     url: https://anydevcode.com
+    logoUrl: https://api.mdcdev.me/v2/github/users/anydevcode/avatar
   - name: Furry Bot Website
     url: https://furry.anydevcode.com
+    logoUrl: https://icon.horse/icon/furry.anydevcode.com
   - name: Bluey API
     url: https://blueyapi.de
     icon: https://i.pinimg.com/originals/dc/cb/e7/dccbe770e822e1f4f7337aba88548f09.png
